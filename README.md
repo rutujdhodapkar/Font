@@ -2,6 +2,9 @@
 # DotoPixel Web Font Package 🌐✏️
 
 A sleek pixel-style font converted for the web, now in WOFF & WOFF2 formats! Perfect for retro vibes and pixel-art projects.
+A Doto Font but with circles instead of squares
+more modern, more better.
+A font like Nothing.os
 
 ## 📂 Package Contents
 - `DotoPixel.woff` & `DotoPixel.woff2` – Optimized web font files.
@@ -26,8 +29,6 @@ A sleek pixel-style font converted for the web, now in WOFF & WOFF2 formats! Per
 - Tweak sizing or fallback fonts in `stylesheet.css`.
 - Embed directly using `@font-face` if you want to inline the CSS.
 
-## 👍 Credits
-Generated with Transfonter (transfonter.org) on 2025-06-04.
 
 ---
-<p align="center">Made with pixel love ❤️🖥️</p>
+<p align="center">Made with pixel love by Rutuj Dhodapkar</p>
